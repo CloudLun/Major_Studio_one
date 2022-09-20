@@ -1,7 +1,10 @@
 # Major_Studio_one
 
+#02B
+![image](https://github.com/CloudLun/Major_Studio_one/blob/main/design.png)
 
-##02A
+
+#02A
 
 ![image](https://github.com/CloudLun/Major_Studio_one/blob/main/Sketch%20One.png)
 
