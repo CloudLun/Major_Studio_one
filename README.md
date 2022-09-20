@@ -1,7 +1,13 @@
 # Major_Studio_one
 
 #02B
+
+Design mockup
 ![image](https://github.com/CloudLun/Major_Studio_one/blob/main/design.png)
+
+Code prototype
+![image](https://github.com/CloudLun/Major_Studio_one/blob/main/data.png)
+
 
 
 #02A
