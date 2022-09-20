@@ -1,5 +1,8 @@
 # Major_Studio_one
 
+
+##02A
+
 ![image](https://github.com/CloudLun/Major_Studio_one/blob/main/Sketch%20One.png)
 
 For this visualization, I would like to know which countries’ forest areas are decreasing the most and on the other hand, increasing. The dataset is 15.1.1, Series: Forest area (thousands of hectares). There are 2,280 data points in the dataset. Instead of showing all of the observations, I would like to look at the changes during these 10 years. The main component of this visualization is the world map multi-color gradients. If the color of the country is green, it means that their forest areas are increasing, and if it is red, then it shows a decrease. On the right side, you can see the line charts representing countries’ amount of   forest area every year, and on the top, there is a filter to choose the perspective you would like to see from the map and line charts.
