@@ -105,6 +105,7 @@ d3.json("./data/data.json").then((data) => {
   console.log("This is circle data grouped by alphabets");
   console.log(outerCircleDataAtoZ);
 
+  // H
   arcPathGenerator(svg, 120, 120);
   circlesGenerator(inner, "inner", innerCircleData, 8, "visible");
   innerCircles = document.querySelectorAll(".innerCircle");
@@ -225,6 +226,8 @@ function dataProcessor(data) {
   nodesData = data.nodes;
 }
 
+
+// H
 function arcGenerator(i, o) {
   return d3
     .arc()
@@ -233,12 +236,12 @@ function arcGenerator(i, o) {
     .startAngle(Math.PI)
     .endAngle(-Math.PI);
 }
-
+// H
 function arcPathGenerator(svg, i, o) {
   path = svg.append("path").attr("d", arcGenerator(i, o));
   totalLength = path.node().getTotalLength();
 }
-
+// H
 function circlesGenerator(elements, name, data, r, visibility) {
   elements
     .append("g")
@@ -281,7 +284,7 @@ function circlesGenerator(elements, name, data, r, visibility) {
       // term.html("Gender Term");
     });
 }
-
+// H
 function nodesPositionGenerator(nodes, name, list) {
   for (let i = 0; i < nodes.length; i++) {
     list[i] = [
@@ -290,7 +293,7 @@ function nodesPositionGenerator(nodes, name, list) {
     ];
   }
 }
-
+// H
 function centerToRootsLinks(index) {
   for (let i = 0; i < outerPosition.length; i++) {
     rootToBranchLinks
