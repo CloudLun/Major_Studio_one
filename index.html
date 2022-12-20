@@ -11,8 +11,52 @@
 </head>
 
 <body>
+    <div class="container">
+        <div class="content">
+            <div class="title">
+                <p>Movement of Global Refugees</p>
+            </div>
+            <div class="selection">
+                <div class="inout">
+                    <div>out</div>
+                    <div class="btn">
+                        <div class="btn-circle"></div>
+                    </div>
+                    <div>in</div>
+                </div>
+                <select class="years" id="years">
+                    <option value="2017">2017</option>
+                    <option value="2018">2018</option>
+                    <option value="2019">2019</option>
+                    <option value="2020">2020</option>
+                    <option value="2021">2021</option>
+                    <option value="2022" selected="selected">2022</option>
+                </select>
+                <select name="" id="countris"></select>
+            </div>
+            <div class="info">
+                <div class="num-section">
+                    <p id="refugeesNum">0</p>
+                    <p>refugees originated from <span id="countryName">country</span></p>
+                </div>
+                <div class="per-section">
+                    <p id="refugeesPer"><span id="refugeesPerNum">0</span>%</p>
+                    <p>of global refugees movement happening in this country</p>
+                </div>
+
+
+            </div>
+            <div id="barChart">
+                <div class="chartTitle">Top Ten Refugees Origin/Aslyum Countries</div>
+            </div>
+        </div>
         <div id="map"></div>
 
+    </div>
 
+    <script src="./app.js"></script>
+    <script src="./barChart.js"></script>
     <script src="./map.js"></script>
+    <script src="./viz.js"></script>
+
 </body>

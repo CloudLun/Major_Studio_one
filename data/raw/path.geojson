@@ -5,45 +5,6 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-12.8855964,24.2183123]
-      },
-      "properties": {
-        "COUNTRY": "Western Sahara",
-        "ISO": "ESH",
-        "COUNTRYAFF": "Western Sahara",
-        "AFF_ISO": "ESH"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [114.177216, 22.302711]
-      },
-      "properties": {
-        "COUNTRY": "China, Hong Kong SAR",
-        "ISO": "HK",
-        "COUNTRYAFF": "China",
-        "AFF_ISO": "CN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [7.5455112, -5.547545]
-      },
-      "properties": {
-        "COUNTRY": "Cote d'Ivoire",
-        "ISO": "CIV",
-        "COUNTRYAFF": "Cote d'Ivoire",
-        "AFF_ISO": "CIV"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [-170.7007316174498, -14.305711987770538]
       },
       "properties": {
@@ -294,9 +255,9 @@
         "coordinates": [-64.45209597511206, -16.7312488393574]
       },
       "properties": {
-        "COUNTRY": "Bolivia (Plurinational State of)",
+        "COUNTRY": "Bolivia",
         "ISO": "BO",
-        "COUNTRYAFF": "Bolivia (Plurinational State of)",
+        "COUNTRYAFF": "Bolivia",
         "AFF_ISO": "BO"
       }
     },
@@ -567,7 +528,7 @@
         "coordinates": [-68.96939768599042, 12.199996647939832]
       },
       "properties": {
-        "COUNTRY": "Curacao ",
+        "COUNTRY": "Curacao",
         "ISO": "CW",
         "COUNTRYAFF": "Netherlands",
         "AFF_ISO": "NL"
@@ -593,9 +554,9 @@
         "coordinates": [-70.43495198520012, 18.77954818522993]
       },
       "properties": {
-        "COUNTRY": "Dominican Rep.",
+        "COUNTRY": "Dominican Republic",
         "ISO": "DO",
-        "COUNTRYAFF": "Dominican Rep.",
+        "COUNTRYAFF": "Dominican Republic",
         "AFF_ISO": "DO"
       }
     },
@@ -866,7 +827,7 @@
         "coordinates": [-63.06883135915303, 18.03942608463078]
       },
       "properties": {
-        "COUNTRY": "Sint Maarten (Dutch part)",
+        "COUNTRY": "Sint Maarten",
         "ISO": "SX",
         "COUNTRYAFF": "Netherlands",
         "AFF_ISO": "NL"
@@ -931,9 +892,9 @@
         "coordinates": [-66.36492135985132, 7.148324760507107]
       },
       "properties": {
-        "COUNTRY": "Venezuela (Bolivarian Republic of)",
+        "COUNTRY": "Venezuela",
         "ISO": "VE",
-        "COUNTRYAFF": "Venezuela (Bolivarian Republic of)",
+        "COUNTRYAFF": "Venezuela",
         "AFF_ISO": "VE"
       }
     },
@@ -961,6 +922,19 @@
         "ISO": "CV",
         "COUNTRYAFF": "Cabo Verde",
         "AFF_ISO": "CV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.571710194917734, 7.536779279421307]
+      },
+      "properties": {
+        "COUNTRY": "Côte d'Ivoire",
+        "ISO": "CI",
+        "COUNTRYAFF": "Côte d'Ivoire",
+        "AFF_ISO": "CI"
       }
     },
     {
@@ -1191,7 +1165,7 @@
         "coordinates": [-2.852943909329258, 53.97844735080214]
       },
       "properties": {
-        "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+        "COUNTRY": "United Kingdom",
         "ISO": "GB",
         "COUNTRYAFF": "United Kingdom",
         "AFF_ISO": "GB"
@@ -1334,9 +1308,9 @@
         "coordinates": [23.419827574282188, -3.338629596207896]
       },
       "properties": {
-        "COUNTRY": "Dem. Rep. of the Congo",
+        "COUNTRY": "Congo DRC",
         "ISO": "CD",
-        "COUNTRYAFF": "Dem. Rep. of the Congo",
+        "COUNTRYAFF": "Congo DRC",
         "AFF_ISO": "CD"
       }
     },
@@ -1490,9 +1464,9 @@
         "coordinates": [34.81832206060381, -6.355794440041147]
       },
       "properties": {
-        "COUNTRY": "United Rep. of Tanzania",
+        "COUNTRY": "Tanzania",
         "ISO": "TZ",
-        "COUNTRYAFF": "United Rep. of Tanzania",
+        "COUNTRYAFF": "Tanzania",
         "AFF_ISO": "TZ"
       }
     },
@@ -1685,9 +1659,9 @@
         "coordinates": [20.520743419397256, 6.331390033944319]
       },
       "properties": {
-        "COUNTRY": "Central African Rep.",
+        "COUNTRY": "Central African Republic",
         "ISO": "CF",
-        "COUNTRYAFF": "Central African Rep.",
+        "COUNTRYAFF": "Central African Republic",
         "AFF_ISO": "CF"
       }
     },
@@ -1945,9 +1919,9 @@
         "coordinates": [35.24251184154588, 31.930818736453883]
       },
       "properties": {
-        "COUNTRY": "Palestinian",
+        "COUNTRY": "Palestinian Territory",
         "ISO": "PS",
-        "COUNTRYAFF": "Palestinian",
+        "COUNTRYAFF": "Palestinian Territory",
         "AFF_ISO": "PS"
       }
     },
@@ -1984,9 +1958,9 @@
         "coordinates": [38.5117323139514, 35.09751106058316]
       },
       "properties": {
-        "COUNTRY": "Syrian Arab Rep.",
+        "COUNTRY": "Syria",
         "ISO": "SY",
-        "COUNTRYAFF": "Syrian Arab Rep.",
+        "COUNTRYAFF": "Syria",
         "AFF_ISO": "SY"
       }
     },
@@ -1997,9 +1971,9 @@
         "coordinates": [35.56886764076691, 38.93207363123396]
       },
       "properties": {
-        "COUNTRY": "Türkiye",
+        "COUNTRY": "Turkey",
         "ISO": "TR",
-        "COUNTRYAFF": "Türkiye",
+        "COUNTRYAFF": "Turkey",
         "AFF_ISO": "TR"
       }
     },
@@ -2036,9 +2010,9 @@
         "coordinates": [-96.33161660829639, 38.8208089190304]
       },
       "properties": {
-        "COUNTRY": "United States of America",
+        "COUNTRY": "United States",
         "ISO": "US",
-        "COUNTRYAFF": "United States of America",
+        "COUNTRYAFF": "United States",
         "AFF_ISO": "US"
       }
     },
@@ -2205,9 +2179,9 @@
         "coordinates": [15.383273292023533, 49.74917370930982]
       },
       "properties": {
-        "COUNTRY": "Czechia",
+        "COUNTRY": "Czech Republic",
         "ISO": "CZ",
-        "COUNTRYAFF": "Czechia",
+        "COUNTRYAFF": "Czech Republic",
         "AFF_ISO": "CZ"
       }
     },
@@ -2296,9 +2270,9 @@
         "coordinates": [20.85677444395745, 44.02679870131969]
       },
       "properties": {
-        "COUNTRY": "Serbia and Kosovo: S/RES/1244 (1999)",
+        "COUNTRY": "Serbia",
         "ISO": "RS",
-        "COUNTRYAFF": "Serbia and Kosovo: S/RES/1244 (1999)",
+        "COUNTRYAFF": "Serbia",
         "AFF_ISO": "RS"
       }
     },
@@ -2478,9 +2452,9 @@
         "coordinates": [28.391111865941348, 47.0725674580696]
       },
       "properties": {
-        "COUNTRY": "Rep. of Moldova",
+        "COUNTRY": "Moldova",
         "ISO": "MD",
-        "COUNTRYAFF": "Rep. of Moldova",
+        "COUNTRYAFF": "Moldova",
         "AFF_ISO": "MD"
       }
     },
@@ -2508,6 +2482,7 @@
         "ISO": "UA",
         "COUNTRYAFF": "Ukraine",
         "AFF_ISO": "UA"
+        
       }
     },
     {
@@ -2556,9 +2531,9 @@
         "coordinates": [54.237077001065444, 32.906023742890056]
       },
       "properties": {
-        "COUNTRY": "Iran (Islamic Rep. of)",
+        "COUNTRY": "Iran",
         "ISO": "IR",
-        "COUNTRYAFF": "Iran (Islamic Rep. of)",
+        "COUNTRYAFF": "Iran",
         "AFF_ISO": "IR"
       }
     },
@@ -2972,9 +2947,9 @@
         "coordinates": [103.76375899026448, 18.117282736873282]
       },
       "properties": {
-        "COUNTRY": "Lao People's Dem. Rep.",
+        "COUNTRY": "Laos",
         "ISO": "LA",
-        "COUNTRYAFF": "Lao People's Dem. Rep.",
+        "COUNTRYAFF": "Laos",
         "AFF_ISO": "LA"
       }
     },
@@ -3037,9 +3012,9 @@
         "coordinates": [105.91338832758704, 16.517347170839393]
       },
       "properties": {
-        "COUNTRY": "Viet Nam",
+        "COUNTRY": "Vietnam",
         "ISO": "VN",
-        "COUNTRYAFF": "Viet Nam",
+        "COUNTRYAFF": "Vietnam",
         "AFF_ISO": "VN"
       }
     },
@@ -3115,9 +3090,9 @@
         "coordinates": [127.76224551357649, 36.402386712544114]
       },
       "properties": {
-        "COUNTRY": "Rep. of Korea",
+        "COUNTRY": "South Korea",
         "ISO": "KR",
-        "COUNTRYAFF": "Rep. of Korea",
+        "COUNTRYAFF": "South Korea",
         "AFF_ISO": "KR"
       }
     },
@@ -3141,9 +3116,9 @@
         "coordinates": [127.3379805653744, 40.19198091470839]
       },
       "properties": {
-        "COUNTRY": "Dem. People's Rep. of Korea",
+        "COUNTRY": "North Korea",
         "ISO": "KP",
-        "COUNTRYAFF": "Dem. People's Rep. of Korea",
+        "COUNTRYAFF": "North Korea",
         "AFF_ISO": "KP"
       }
     },
