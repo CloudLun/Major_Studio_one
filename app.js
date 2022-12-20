@@ -43,3 +43,4 @@ function countryYearRefugeesTotal() {
   }
   return total;
 }
+
